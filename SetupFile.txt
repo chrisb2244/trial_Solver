@@ -1,0 +1,13 @@
+# Some comments can be added using
+# the hash character as the first
+# non-whitespace character.
+xCells 200
+yCells 40
+xRange 2.0
+yRange 0.5
+#zCells 1
+#zRange 0.01
+
+Gravity (0, -9.81)
+
+otherField 213
